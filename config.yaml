@@ -1,0 +1,9 @@
+path: C:/Users/varun/OneDrive/Desktop/dataset
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+
+
+nc: 6
+names: ['0', '1', '2', '3', '4', '5']
